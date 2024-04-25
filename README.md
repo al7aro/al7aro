@@ -31,15 +31,10 @@ int	main(void)
 	return (0);
 }
 ```
-## I like this gif:
-![Alt Text](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif)
+
 ## 24/7 Available via
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:al7aro@gmail.com)
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dVaGaymer)
-
-# And remember
-
-![e](https://latex.codecogs.com/svg.image?{\color{Pink}&space;e^{n}&space;\equiv&space;\sum_{x=0}^{\infty}\frac{n^x}{x!}}&space;)
 
 <!-- How to add Latex to Markdown (GitHub)
 ![test](https://latex.codecogs.com/svg.image?{\color{Pink}&space;\mathbf{e^{i\pi}&space;&plus;&space;1&space;=&space;0}&space;})
