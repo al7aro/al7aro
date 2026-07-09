@@ -1,8 +1,7 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=You+are+mine;When+I+feel+your+sweet+embrace+again;Take+me+to+that+special+place+again;Up+high+floating+on+cloud+nine+with+you;Heaven+is+when+I'm+with+you;You+are+mine;You+are+mine;(I'm+yours);(I'm+yours);I'm+yours;Say+you'll+never+leave+me;Hold+on;Don't+ever+let+me+go;Heaven+is+when+I'm+with+you;You+are+mine;You+are+mine;Your+gaze;I'll+never+lose+it;No+way;You'll+ever+be+alone;Heaven+is+when+I'm+with+you;You+are+mine;You+are+mine;You+are+mine;When+I+feel+your+sweet+embrace+again;Take+me+to+that+special+place+again;Up+high+floating+on+cloud+nine+with+you;Heaven+is+when+I'm+with+you;You+are+mine;You+are+mine;Heaven+is+when+I'm+with+you;You+are+mine;You+are+mine;So+lost;I+am+missing;Your+touch;Gives+my+life+meaning;Heaven+is+when+I'm+with+you;You+are+mine;You+are+mine;Gives+my+life+meaning;Heaven+is+when+I'm+with+you;You+are+mine;You+are+mine;You+are+mine;Don't+ever+let+me+go;You+are+mine;You+are+mine;You'll+never+be+alone;When+I+feel+your+sweet+embrance+again;Take+me+to+that+special+place+again;Up+high+floating+on+cloud+nine+with+you;Heaven+is+when+I'm+with+you;You+are+mine;You+are+mine)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=10&duration=3500&pause=600&width=435&lines=Everything+that+lives+is+designed+to+end.;We+are+perpetually+trapped+in+a+never+ending+spiral+of+life+and+death.;Is+this+a+curse%3F;Or+some+kind+of+punishment%3F;I+often+think+about+the+god+who+blessed+us+with+this+cryptic+puzzle%E2%80%A6;and+wonder+if+we%E2%80%99ll+ever+get+the+chance+to+kill+him.)](https://git.io/typing-svg)
 
-[![](https://badgen.net/badge/icon/terminal/black?icon=terminal&label)](https://al7aro.com)
-[![](https://badgen.net/badge/icon/git/orange?icon=git&label)](https://github.com/dVaGaymer)
-[![](https://img.shields.io/badge/42-student-blueviolet)](https://profile.intra.42.fr/users/alopez-g)
+[![](https://badgen.net/badge/icon/website/black?icon=terminal&label)](https://al7aro.github.io)
+[![](https://img.shields.io/badge/in-Linkedin-blue)](https://www.linkedin.com/in/%C3%A1lvaro-l%C3%B3pez-g%C3%B3mez-1a2765193/)
 
 ##
 ```c
