@@ -3,6 +3,8 @@
 [![](https://badgen.net/badge/icon/website/black?icon=terminal&label)](https://al7aro.github.io)
 [![](https://img.shields.io/badge/in-Linkedin-blue)](https://www.linkedin.com/in/%C3%A1lvaro-l%C3%B3pez-g%C3%B3mez-1a2765193/)
 
+<a href="https://codeberg.org/al7aro"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Codeberg_logo.svg/500px-Codeberg_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250223191811" align="center" width=100 style="margin:0px"/></a>
+
 ##
 ```c
 void	_program(void){}
