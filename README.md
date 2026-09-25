@@ -1,8 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=10&duration=3500&pause=600&width=435&lines=Everything+that+lives+is+designed+to+end.;We+are+perpetually+trapped+in+a+never+ending+spiral+of+life+and+death.;Is+this+a+curse%3F;Or+some+kind+of+punishment%3F;I+often+think+about+the+god+who+blessed+us+with+this+cryptic+puzzle%E2%80%A6;and+wonder+if+we%E2%80%99ll+ever+get+the+chance+to+kill+him.)](https://git.io/typing-svg)
 
-<!-- <a href="https://codeberg.org/al7aro"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Codeberg_logo.svg/500px-Codeberg_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250223191811" align="center" width=100 style="margin:0px"/></a> -->
-
-##
 ```c
 void	_program(void){}
 void	_focus(void){}
